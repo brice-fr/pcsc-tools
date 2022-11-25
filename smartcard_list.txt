@@ -3914,99 +3914,10 @@
 	http://www.navigo.fr/
 	http://www.imagine-r.com/
 
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 26 14 7C 55 82 90 00
-	Navigo (transport)
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 26 14 99 22 82 90 00
-	French "Navigo" NFC card (visually, new design of 2014, with purple/grey color theme, portrait orientation) (Transport)
-	http://www.navigo.fr/
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 26 15 5E E3 82 90 00
+3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 .. .. .. 82 90 00
 	French "Navigo" transport card (Transport)
 	http://www.navigo.fr/
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 26 5A AD B0 82 90 00
-	Navigo card (from March 2014 onwards), to be used in Paris and its suburbs (Transport)
-	http://www.navigo.fr/
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 26 53 F8 82 90 00
-	New Navigo card - Paris Sub transport (Transport)
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 28 51 D4 82 90 00
-	Navigo, Paris and Isle of France transport card (Transport)
-	https://www.iledefrance-mobilites.fr/titres-et-tarifs
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 2A 8F E7 82 90 00
-	Navigo Découverte card, a rechargeable card for travel in Paris, France. (Transport)
-	https://parisbytrain.com/paris-train-metro-week-pass-navigo-decouverte/
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 32 83 08 82 90 00
-	Navigo Easy (Paris) (Transport) (Transport)
-	https://www.iledefrance-mobilites.fr/titres-et-tarifs/supports/passe-navigo-easy
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 35 8F 16 82 90 00
-	French Navigo passcard to travel in Paris area using RATP & SNCF services (Transport)
-	http://www.navigo.fr/
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 40 6D 7A 82 90 00
-	French Navigo Card for Transport (RATP, SNCF) (Transport)
-	http://www.navigo.fr/
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 43 0C E1 82 90 00
-	French Navigo Card (Transport)
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 52 28 99 82 90 00
-	SNCF Navigo Card (Transport)
-	https://www.sncf.com/fr
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 55 78 4A 82 90 00
-	French card navigo (Transport)
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 55 8E 85 82 90 00
-	Stif  Navigo Pass (French Syndicate of Transport in Ile de France) (Transport)
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 5D CF 41 82 90 00
-	Pass navigo (Transport)
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 61 32 D6 82 90 00
-	Navigo (Transport)
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 64 E7 35 82 90 00
-	Navigo pass, Paris (France) transport network (https://en.wikipedia.org/wiki/Navigo_pass) (Transport)
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 65 62 F7 82 90 00
-	French NAVIGO Card (simple Navigo model, not annual or Imagin'R) (Transport)
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 67 80 D9 82 90 00
-	Navigo (Transport)
-	https://www.navigo.fr/
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 6D 6B B5 82 90 00
-	Navigo (Transport)
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 77 EE D6 82 90 00
-	Navigo (Paris) - Gamalto SmarCard (Transport)
-	https://www.iledefrance-mobilites.fr/
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 7A 7C 32 82 90 00
-	Navigo Pass used mainly on the french SNCF, Optile and RATP transit networks (Transport)
-	https://www.iledefrance-mobilites.fr/titres-et-tarifs
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 9B C4 F1 82 90 00
-	Navigo Liberté + (Transport)
-	https://www.iledefrance-mobilites.fr/titres-et-tarifs/detail/liberte-plus
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 9C 78 6C 82 90 00
-	Navigo Easy (Transport)
-	http://www.navigo.fr/titres/titre-t-support-sans-contact-presentation/
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 A1 48 7B 82 90 00
-	Navigo card using Calypso stantard (Other)
-	https://en.wikipedia.org/wiki/Calypso_(electronic_ticketing_system)
-
-3B 6F 00 00 80 5A 28 11 42 10 12 2B 27 AE 59 B9 82 90 00
-	French "Navigo" transport card (Transport)
-	http://www.navigo.fr/
+	http://www.imagine-r.com/
 
 3B 6F 00 00 80 5A 28 11 42 10 12 2B 4C 09 31 0D 82 90 00
 	Pass Navigo personnalisé (Paris) (Transport)
